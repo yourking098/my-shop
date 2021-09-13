@@ -1,0 +1,6 @@
+# Project exclude paths
+/my-shop-commons/target/
+/my-shop-domain/target/
+/my-shop-web-admin/target/
+/my-shop-web-api/target/
+/my-shop-web-ui/target/
