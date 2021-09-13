@@ -21,6 +21,7 @@ public class UserController {
     //表单初始化
     @ModelAttribute
     public TbUser getTbUser(Long id) {
+
         System.out.println("Hi Model Attribute");
         TbUser tbUser = null;
         if (id!=null) {

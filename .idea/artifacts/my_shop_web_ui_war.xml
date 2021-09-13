@@ -3,10 +3,8 @@
     <output-path>$PROJECT_DIR$/my-shop-web-ui/target</output-path>
     <properties id="maven-jee-properties">
       <options>
-        <exploded>false</exploded>
         <module>my-shop-web-ui</module>
         <packaging>war</packaging>
-        <unpackNestedArchives>false</unpackNestedArchives>
       </options>
     </properties>
     <root id="archive" name="my-shop-web-ui-1.0.0-SNAPSHOT.war">

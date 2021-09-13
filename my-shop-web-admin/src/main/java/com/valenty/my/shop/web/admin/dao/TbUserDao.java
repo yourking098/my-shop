@@ -22,9 +22,11 @@ public interface TbUserDao {
 
     List<TbUser> search(TbUser tbUser);
 
+
     /**
      * 删除功能
      * @param ids
      */
     void deleteMulti(String[] ids);
+
 }
